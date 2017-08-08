@@ -1,9 +1,9 @@
-#MyReads Bookshelf
+# MyReads Bookshelf
 React project developed for Udacity's React Nanodegree program. A simple application
 that allows users to search for books, then add  books to different bookshelves. Users
 can also move books between the bookshelves.
 
-##Dependencies
+## Dependencies
 Application is bootstraped using create-react-app. Additional dependencies are
 as follows:
 - prop-types
