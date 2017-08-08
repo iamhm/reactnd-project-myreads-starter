@@ -9,7 +9,7 @@ as follows:
 - prop-types
 - react-router-dom
 
-##Usage
+## Usage
 1) Download or clone the project.
 2) From project directory run ``npm install`` to install all required dependencies.
 3) From project directory run ``npm start`` to open run project.
